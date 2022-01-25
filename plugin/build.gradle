@@ -9,7 +9,6 @@
 plugins {
     // Apply the Java Gradle plugin development plugin to add support for developing Gradle plugins
     id 'java-gradle-plugin'
-    id "nebula.release" version "16.0.0"
 }
 
 repositories {
