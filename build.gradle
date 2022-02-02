@@ -1,5 +1,0 @@
-plugins {
-    id "nebula.release" version "16.0.0"
-}
-
-version = '0.2.0-SNAPSHOT'
